@@ -19,16 +19,7 @@
       "modifiedAt": "2024-04-03T09:00:00Z",
       "tags": ["cá nhân", "đi chợ"],
       "color": "#0000FF"
-    },
-    {
-      "id": 3,
-      "title": "Học Figma",
-      "content": "Học và ôn tập kiến thức cũ thiết kế giao diện Figma.",
-      "priority": 3,
-      "createdAt": "2024-04-03T08:30:00Z",
-      "modifiedAt": "2024-04-03T09:00:00Z",
-      "tags": ["học tập", "Figma"],
-      "color": "#9900FF"
     }
+
   ]
 }
